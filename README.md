@@ -29,7 +29,6 @@ spleeter separate -p spleeter:2stems -o output [음원 파일]
 > 예시 음원 파일의 반주를 libsora를 이용하여 음계 단위로 성분 분석을 하면 다음과 같습니다.
 <img src=https://github.com/YUYUJIN/PerfectScore/blob/main/features/accompaniment.png></img>
 > 마찬가지로 분리한 보컬을 분석해보면 다음과 같습니다.
-
 <img src=https://github.com/YUYUJIN/PerfectScore/blob/main/features/vocal.png></img>
 > 보컬 부분만 사용하여 정답지를 단위 시간 당 음계의 강도를 사용하는 벡터를 준비합니다.
 >
