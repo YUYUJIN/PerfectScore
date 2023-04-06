@@ -34,6 +34,7 @@ spleeter separate -p spleeter:2stems -o output [음원 파일]
 > 보컬 부분만 사용하여 정답지를 단위 시간 당 음계의 강도를 사용하는 벡터를 준비합니다.
 >
 > 반주에 맞추어 사용자에게 음성을 입력 받고 마찬가지로 libsora를 이용하여 음성을 음계로 벡터화를 진행한 뒤에 코사인 유사도로 단위 시간 당 유사도를 비교합니다.
-<img src=https://wikimedia.org/api/rest_v1/media/math/render/svg/2a8c50526e2cc7aa837477be87eff1ea703f9dec></img>
+> 
+> <img src=https://wikimedia.org/api/rest_v1/media/math/render/svg/2a8c50526e2cc7aa837477be87eff1ea703f9dec></img>
 >
 > 전체 시간 중에 유사도가 기준치를 넘는 구간의 비율로 점수를 계산합니다.
