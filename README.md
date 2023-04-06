@@ -20,4 +20,9 @@ python app.py
 ## Information
 > 반주와 원곡자의 보컬을 준비하기 위해서 다양한 방식으로 준비할 수 있습니다. 이 프로젝트에서는 spleeter를 사용하여 반주와 보컬을 준비하였습니다.
 >
-> 
+> github link : https://github.com/deezer/spleeter
+```
+pip install spleeter
+cd [음원 파일 경로]
+spleeter separate -p spleeter:2stems -o output [음원 파일]
+```
