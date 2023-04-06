@@ -9,10 +9,15 @@
 <img src=https://img.shields.io/badge/pyaudio-0.2.12-yellowgreen></img>
 <img src=https://img.shields.io/badge/scikit--learn-1.2.0-lightgrey></img>
 
-## 사용방법
+## How to use
 ```
 git clone https://github.com/YUYUJIN/PerfectScore.git
 cd PerfectScore
 pip install -r requirements.txt
 python app.py
 ```
+
+## Information
+> 반주와 원곡자의 보컬을 준비하기 위해서 다양한 방식으로 준비할 수 있습니다. 이 프로젝트에서는 spleeter를 사용하여 반주와 보컬을 준비하였습니다.
+>
+> 
