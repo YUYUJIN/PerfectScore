@@ -10,6 +10,6 @@
 <img src=https://img.shields.io/badge/scikit--learn-1.2.0-lightgrey></img>
 
 ## 사용방법
-'''sh
+```
 git clone 
-'''
+```
