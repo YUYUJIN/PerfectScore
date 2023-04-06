@@ -26,3 +26,5 @@ pip install spleeter
 cd [음원 파일 경로]
 spleeter separate -p spleeter:2stems -o output [음원 파일]
 ```
+> 예시 음원 파일의 반주를 음계 단위로 성분 분석을 하면 다음과 같습니다.
+<img></img>
