@@ -11,5 +11,8 @@
 
 ## 사용방법
 ```
-git clone 
+git clone https://github.com/YUYUJIN/PerfectScore.git
+cd PerfectScore
+pip install -r requirements.txt
+python app.py
 ```
